@@ -1,0 +1,17 @@
+{
+  "@l3atm3n": {
+    "PublicKey": "P4sCdbRQYM+PGN+HMMDAkDMgbc2EEimfdidFJlUY7m0=",
+    "AllowedIPs": "10.1.1.2/32",
+    "created": "29.12.2025, 12:29:21"
+  },
+  "mc_keks": {
+    "PublicKey": "60rG81fTInIphnQTCUksaLE1+HN3Uih+Qsy6gdp5Fw4=",
+    "AllowedIPs": "10.1.1.3/24",
+    "created": "29.12.2025, 12:29:21"
+  },
+  "@lNNOSTRANNAYA": {
+    "PublicKey": "oJnzlDgNfk2bhakqAET6N3FlRl8YhLrHFgBqMR4zsnM=",
+    "AllowedIPs": "10.1.1.4/32",
+    "created": "29.12.2025, 12:29:21"
+  }
+}
